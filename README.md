@@ -1,7 +1,9 @@
 # Instruções git e GitHub usando o windows
 
-**Primeiro baixe o git no link abaixo:**
-<a href="https://git-scm.com/downloads" target="_blank">Download git</a>
+**Faça o downolad do git no link abaixo:**
+https://git-scm.com/downloads
+
+
 
 
 **No terminal git bash**
