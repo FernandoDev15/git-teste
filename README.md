@@ -1,6 +1,6 @@
 # Instruções basicas do git e GitHub no windows
 
-**Faça o downolad do git no link** [download git](https://git-scm.com/downloads)
+**Faça o download do git no link** [download git](https://git-scm.com/downloads)
 ***
 
 ## Terminal git bash
