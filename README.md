@@ -39,7 +39,7 @@
 - `git push -u origin main`
 ***
 
-## Alterações do projeto de forma local**
+## Alterações do projeto de forma local
 **Click com o botão direito do mouse navegue ***Mostrar mais opções>Open Git Bash here***, depois digite os comandos abaixo no terminal:**
 - `git add .`
 - `git commit -m "o que alterou"`
