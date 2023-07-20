@@ -4,7 +4,7 @@
 ***
 
 ## Terminal git bash
-**configurar usuario, de preferência use o mesmo email de cadastro no github**  
+**configurar usuário, de preferência use o mesmo email de cadastro no github**  
 - `git config --global user.name "fulano de tal"`
 - `git config --global user.email "fulanodetal@exemplo.com"`
 ***
@@ -23,7 +23,7 @@
 - click ***Add SSH Key***
 ***
 
-## New repositorio  gitHub
+## New repositorio gitHub
 - ***Repositories>New***
 - ***Repository name***  defina um nome para o repositório
 - click ***Create repository***
