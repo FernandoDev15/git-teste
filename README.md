@@ -1,13 +1,10 @@
 # Instruções git e GitHub usando o windows
 
 **Faça o downolad do git no link abaixo:**
-https://git-scm.com/downloads
-
-
-
+[download git](https://git-scm.com/downloads)
 
 **No terminal git bash**
-configurar usuario, de preferência use o mesmo email de cadastro no github  
+-configurar usuario, de preferência use o mesmo email de cadastro no github  
 1. `git config --global user.name "fulano de tal"`
 2. `git config --global user.email "fulanodetal@exemplo.com"`
 
@@ -28,7 +25,6 @@ Click na foto do seu perfil que no canto superior direito `Setting>SSH and GPG K
 2. `Repository name` defina um nome para o repositório
 3. click `Create repository`
 
-
 **Dentro da pasta do projeto**
 Click com o botão direito do mouse navegue `Mostrar mais opções>Open Git Bash here` digite os comandos abaixo no terminal:
 1. `git init`
@@ -37,8 +33,6 @@ Click com o botão direito do mouse navegue `Mostrar mais opções>Open Git Bash
 4. `git branch -M main`
 5. `git remote add origin git@githubcom:fulanodetal/repositorio.git>`
 6. `git push -u origin main`
-
-
 
 **Depois das alterações do projeto de forma local**
 Click com o botão direito do mouse navegue `Mostrar mais opções>Open Git Bash here` digite os comandos abaixo no terminal:
