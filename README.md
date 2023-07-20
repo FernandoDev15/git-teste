@@ -1,7 +1,8 @@
 # Instruções git e GitHub usando o windows
 
 **Primeiro baixe o git no link abaixo:**
-[Download git](https://git-scm.com/downloads)
+<a href="https://git-scm.com/downloads" target="_blank">Download git</a>
+
 
 **No terminal git bash**
 configurar usuario, de preferência use o mesmo email de cadastro no github  
